@@ -14,6 +14,15 @@
     "categories": {
       "auth": {
         "awsfullstackcb44f313": {}
+      },
+      "function": {
+        "todo": {
+          "deploymentBucketName": "amplify-amplify683b8f5249224-staging-145239-deployment",
+          "s3Key": "amplify-builds/todo-632b61706161572f4c63-build.zip"
+        }
+      },
+      "api": {
+        "todoAPI": {}
       }
     }
   }
